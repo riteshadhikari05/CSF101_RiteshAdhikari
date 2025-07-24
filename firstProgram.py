@@ -1,0 +1,1 @@
+print("pelden bro is stupid") if 2+2 == 8 else print("pelden is still stupid lmao")
