@@ -1,5 +1,3 @@
-a=2
-b=3
-sum=a+b
-print(sum)
-print(a+b)
+name=input("ritesh adhikari")
+age=input("67")
+print("you are"+name+" and your age is "+age)
